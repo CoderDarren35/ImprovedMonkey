@@ -9,3 +9,10 @@ print ('Argument List:',  str(sys.argv))
 
 print(arg)
 print(character)
+
+if character == "1":   
+    print("one")
+else:
+    print("not a one")
+
+print(character)
